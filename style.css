@@ -92,6 +92,11 @@ nav a {
   line-height: 1.5;
 }
 
+#proxysite {
+  padding: 40px 20px;
+
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .intro {
